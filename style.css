@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* background */
+body{
+    background-size: cover;
+}
+/* navbar */
+.nav-decor{
+    /* border: 1px solid red; */
+    margin-left: 10px;
+    padding: 10px;
+}
+/* navbar heading */
+.nav-head{
+    border: 3px solid darkcyan;
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+/* form */
+.form-decor{ 
+    margin-left: 8%;
+    margin-top: 2%;
+    padding: 10px;
+    border: 10px solid rgb(70, 69, 69);
+    border-radius: 25px;
+    background-color: cadetblue;
+    border-style: inset;
+    box-shadow: 10px 20px 40px 7px;
+}
+/* input boxes */
+.inp-decor{
+    border: 3px solid dimgrey;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: rgb(240, 252, 255);
+    margin-top: 5px;
+    margin-right: 1px;
+    margin-bottom: 5px;
+}
+/* input box */
+.inp1-decor{ 
+    margin-bottom: 5px;
+}
+/* input heading */
+h6{
+    margin-left: 4px;
+}
+/* buttons */
+.btn-decor{
+    /* border: 1px solid red; */
+    padding: 5px;
+    margin-left: 2px;
+}
